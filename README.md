@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm John  
 
 Welcome to my GitHub profile!  
@@ -36,3 +35,4 @@ I’m currently exploring **AI, Python, and creative coding projects** — inclu
 
 ## ⚡ Fun fact
 I’m a guitar player and bassist, occasional open-mic enthusiast, and love experimenting with **tech-native creativity** that mixes code, design, and play.
+
