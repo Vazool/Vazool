@@ -1,6 +1,7 @@
 # 👋 Hi, I'm John  
 
 Welcome to my GitHub profile!  
+
 I’m currently exploring **AI, Python, and creative coding projects** — including [Megabirthday](https://megabirthday.me), a playful experiment in dates, milestones, and automation *(MVP release on 05/10/25)*
 
 ---
@@ -35,4 +36,5 @@ I’m currently exploring **AI, Python, and creative coding projects** — inclu
 
 ## ⚡ Fun fact
 I’m a guitar player and bassist, occasional open-mic enthusiast, and love experimenting with **tech-native creativity** that mixes code, design, and play.
+
 
