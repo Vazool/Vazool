@@ -17,6 +17,7 @@ I’m currently exploring **AI, Python, and creative coding projects** — inclu
 ## 🌱 Currently Learning
 - Python (OOP, APIs, data science basics)
 - Jekyll & GitHub Pages for static sites
+- Mermaid, to support my learning and note-taking experience
 - AI fundamentals (in prep for MSc Computer Science (AI) at University of Kent from October 2025)
 
 ---
@@ -36,5 +37,6 @@ I’m currently exploring **AI, Python, and creative coding projects** — inclu
 
 ## ⚡ Fun fact
 I’m a guitar player and bassist, occasional open-mic enthusiast, and love experimenting with **tech-native creativity** that mixes code, design, and play.
+
 
 
